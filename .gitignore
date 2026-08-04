@@ -8,6 +8,9 @@ clone project git/
 log.txt
 index.ts
 
+# mengabaikan semua file dengan ekstensi .py
+*.py
+
 
 # mengecuaikan file {lebih dari satu file } estensi html
 # *.html
