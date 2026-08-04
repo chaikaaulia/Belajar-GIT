@@ -2,10 +2,12 @@
 clone project git/
 
 # mengecuaikan file
-*.log
+# *.log
 
 # mengecuaikan file { satu file saja }
 log.txt
+index.ts
+
 
 # mengecuaikan file {lebih dari satu file } estensi html
-*.html
+# *.html
