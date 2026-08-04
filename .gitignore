@@ -1,0 +1,11 @@
+# mengecuaikan folder agar tidak ter uplod ke repostory akun saya sendiri
+clone project git/
+
+# mengecuaikan file
+*.log
+
+# mengecuaikan file { satu file saja }
+log.txt
+
+# mengecuaikan file {lebih dari satu file } estensi html
+*.html
